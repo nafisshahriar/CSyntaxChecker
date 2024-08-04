@@ -1,0 +1,5 @@
+main
+scanf
+while
+for
+printf
